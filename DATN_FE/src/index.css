@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  max-width: 1520px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.container-2 {
+  max-width: 1490px;
+  margin: 0 auto;
+}
+
+html {
+
+  font-family: "Quicksand", sans-serif;
+
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.category-list .swiper-slide {
+  user-select: none;
+  width: 352.5px;
+  overflow: hidden;
+  height: 100%;
+}
+
+.product-sale .swiper-slide {
+  user-select: none;
+  width: 230px;
+  overflow: hidden;
+  height: 100%;
+}
+
+.product-related .swiper-slide {
+  user-select: none;
+  width: 280px;
+  overflow: hidden;
+  height: 100%;
+}
+
+.swiper-button-prev {
+  color: white;
+}
+.swiper-button-next {
+  color: white;
+}
+.swiper-pagination-bullet-active {
+  background-color: #fff;
+}
+
+.swiper-button-next {
+  color: white;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #fff;
+}
+
+.not-found {
+  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9,
+    0 5px 0 #aaa, 0 6px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.1),
+    0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2),
+    0 5px 10px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.2),
+    0 20px 20px rgba(0, 0, 0, 0.15);
+}
+.container-2 {
+  max-width: 1490px;
+  margin: 0 auto;
+}

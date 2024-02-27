@@ -1,0 +1,152 @@
+{
+    "_id": "64587ccd63a25764a81ba82d",
+    "id": "64587ccd63a25764a81ba82d",
+    "title": "Shorts chạy bộ Coolmate Basics",
+    "seo_alias": "quan-shorts-chay-bo-coolmate-bassics",
+    "tags": {
+        "ban-chay": "Đáng mua"
+    },
+    "options": [
+        {
+            "option_id": "color",
+            "title": "Màu sắc",
+            "values": [
+                "Cam",
+                "Xám chì",
+                "Xám xanh"
+            ]
+        },
+        {
+            "option_id": "size",
+            "title": "Kích thước",
+            "values": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL"
+            ]
+        }
+    ],
+    "images": [
+        {
+            "id": "40170a7d",
+            "src": "/image/October2023/QSCB.BSC-3_31.jpg"
+        }
+    ],
+    "giveaway_all": false,
+    "collections": [
+        "5c6d1590000c6932aa41baf3",
+        "60768dbd25430321167da164",
+        "64376ec516a25f35bc16c1eb",
+        "60ed598bc98d11064948f187",
+        "62bd4e92e5272114a7439e97",
+        "61c934310be82e613b2dfae4",
+        "64141390bc217723f6594914",
+        "63a91c753e8ce01015143cbc",
+        "63e461ce6ffcfc2cae439e14",
+        "6522282a96036817393bdb25"
+    ],
+    "compare_price": 99000,
+    "review": {
+        "count": 33,
+        "avg": 9.6
+    },
+    "variants": [
+        {
+            "_id": "6526b8efe5b922190613ffe9",
+            "id": "05d8cb3a",
+            "product_id": "64587ccd63a25764a81ba82d",
+            "title": "Cam / S",
+            "regular_price": 99000,
+            "compare_price": 99000,
+            "quantity": 13,
+            "barcode": "",
+            "weight": "",
+            "length": "",
+            "width": "",
+            "sku": "",
+            "height": "",
+            "option1": "Cam",
+            "option2": "S",
+            "option3": "",
+            "option4": "",
+            "image": "",
+            "sizechart": "",
+            "sync_product": [
+                {
+                    "label": "*QS.CB.BS.C.S_Quần short chạy bộ Basic - Cam - S",
+                    "value": "39104023",
+                    "nhanh_id": "39104031"
+                }
+            ],
+            "youtube_video": "",
+            "hide": false,
+            "pending": 0,
+            "feed_fb_image": "",
+            "based_product_id": null,
+            "available": true,
+            "product_title": "Shorts chạy bộ Coolmate Basics",
+            "syncable": true,
+            "updated_at": "2023-10-13 23:46:38",
+            "created_at": "2023-10-11 22:02:07",
+            "percent": 0,
+            "flash_sale_type": null,
+            "exclude_discount": false,
+            "exclude_coolclub": false,
+            "time_sale": null,
+            "used": 0
+        },
+        {
+            "_id": "6526b8efe5b922190613ffeb",
+            "id": "482cbb40",
+            "product_id": "64587ccd63a25764a81ba82d",
+            "title": "Cam / M",
+            "regular_price": 99000,
+            "compare_price": 99000,
+            "quantity": 42,
+            "barcode": "",
+            "weight": "",
+            "length": "",
+            "width": "",
+            "sku": "",
+            "height": "",
+            "option1": "Cam",
+            "option2": "M",
+            "option3": "",
+            "option4": "",
+            "image": "",
+            "sizechart": "",
+            "sync_product": [
+                {
+                    "label": "*QS.CB.BS.C.M_Quần short chạy bộ Basic - Cam - M",
+                    "value": "39104019",
+                    "nhanh_id": "39104039"
+                }
+            ],
+            "youtube_video": "",
+            "hide": false,
+            "pending": 1,
+            "feed_fb_image": "",
+            "based_product_id": null,
+            "available": true,
+            "product_title": "Shorts chạy bộ Coolmate Basics",
+            "syncable": true,
+            "updated_at": "2023-10-13 22:46:39",
+            "created_at": "2023-10-11 22:02:07",
+            "percent": 0,
+            "flash_sale_type": null,
+            "exclude_discount": false,
+            "exclude_coolclub": false,
+            "time_sale": null,
+            "used": 0
+        }
+    ],
+    "regular_price": 99000,
+    "display_name": "Shorts chạy bộ Coolmate Basics",
+    "seo_meta_title": "Shorts chạy bộ Coolmate Basics",
+    "display_name_open": "",
+    "campaign_sale": null,
+    "flash_sale": null,
+    "deal_sale": null
+}
